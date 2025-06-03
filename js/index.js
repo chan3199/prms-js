@@ -7,7 +7,6 @@ init();
 
 function init() {
   initStore();
-
   initCurrentAsset();
   initAddItem();
   initHistoryList();
